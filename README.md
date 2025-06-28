@@ -34,11 +34,16 @@ The system detects and tracks players throughout the video, maintaining consiste
 
 ### Tools & Techniques
 1.YOLOv8 (object detection)
+
 2.ByteTrack (re-identification tracking)
+
 3.Confidence threshold tuning for sports-specific motion
+
 4.Tested on provided 15-second clip
 
 ### Future Enhancements
 1.Use of visual embeddings (CLIP / ReIDNet) for cross-camera mapping
+
 2.Player jersey color filtering to distinguish teammates
+
 3.Facial recognition or pose-guided embeddings for finer identification
